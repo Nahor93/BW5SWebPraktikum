@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+table.loginview {
+	border: 1px solid gray;
+	border-radius: 5px;
+	color: gray;
+	font-family: Calibri Light;
+	font-size: 11pt;
+	background-color: white;
+	width: 10cm;
+}
+
+input.loginview_login_button {
+	width: 5.5cm;
+	height: 1cm;
+	align: center;
+	background-color: red;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+	border-color: red;
+}
+
+img.logo {
+	height: 73.2px;
+	width: 108px;
+}
+
+td.loginview_oben {
+	color: gray;
+	vertical-align: top;
+	text-align: center;
+	font-size: 15pt;
+}
+
+input.loginview {
+	width: 5.5cm;
+	height: 0.5cm;
+}
