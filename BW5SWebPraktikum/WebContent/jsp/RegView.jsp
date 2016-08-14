@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Konto erstellen</title>
+<title>Konto erstellen - CINE</title>
 <link rel="stylesheet" type="text/css" href="../css/RegView.css">
 </head>
 <body>
