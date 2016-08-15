@@ -34,8 +34,15 @@
 			</table>
 		</form>
 	</div>
-	<div id="left"></div>
-	<div id="right"></div>
-	<div id="middle">hallo</div>
+	<div id="main">
+	<table class="außen" align="center">
+	<tr>
+	<td>
+	<table class="rahmen">
+	</table>
+	</td>
+	</tr>
+	</table>
+	</div>
 </body>
 </html>

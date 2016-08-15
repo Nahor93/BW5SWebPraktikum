@@ -9,28 +9,11 @@ div#head {
 	background-color: black;
 }
 
-div#middle {
-	float: none;
-	border: 10px solid blue;
-	width: 5cm;
-	height: 20cm;
+div#main {
 	background-color: white;
-} 
-
-div#left {
-	float: left;
-	border: 10px solid #333;
-	background-color: #333;
-	width: 5cm;
-	height: 20cm;
-}
-
-div#right {
-	float: right;
-	border: 10px solid #333;
-	background-color: #333;
-	width: 5cm;
-	height: 20cm;
+	width: 100%;
+	float: none;
+	margin-top: 5px;
 }
 
 img.logo {
@@ -72,6 +55,22 @@ input.title {
 input.cart {
 	height: 33.4 px;
 	width: 72px ; 
+}
+
+table.auﬂen {
+	color: gray;
+	font-family: Calibri Light;
+	font-size: 11pt;
+}
+
+table.rahmen {
+	border: 1px solid gray;
+	border-radius: 5px;
+	background-color: white;
+	margin: 8px;
+	align: center;
+	width: 25cm;
+	height: 10cm;
 }
 
 /* Dropdown Button */
