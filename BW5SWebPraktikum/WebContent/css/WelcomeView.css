@@ -8,10 +8,12 @@ table.oben {
 	background-image: url(../img/BackgroundPicture.jpg);
 	background-size: 100%;
 	background-repeat-y;
-	width: 38cm;
-	height: 22cm;
 	margin-right: 4px;
 	margin-left: 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 input.button {

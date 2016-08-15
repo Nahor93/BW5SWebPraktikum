@@ -36,14 +36,15 @@
 	</div>
 	<div id="main">
 		<form action="../jsp/AccountAppl.jsp" method="get">
-		
+
 			<table class="außen" align="center">
-				<tr>
-					<td><h2>Mein Konto</h2></td>
-				</tr>
+
 				<tr>
 					<td>
 						<table class="rahmen">
+							<tr>
+								<td><h2>Mein Konto</h2></td>
+							</tr>
 							<tr>
 								<td>
 									<table align="center">
@@ -53,10 +54,12 @@
 											<td>
 												<table>
 													<tr>
-														<td colspan="2"><a href="">Neue Adresse hinzufügen</a></td>
+														<td colspan="2"><a href="">Neue Adresse
+																hinzufügen</a></td>
 													</tr>
 													<tr>
-														<td colspan="2" align="center"><a href="">Anmelde- & Sicherheitseinstellungen</a></td>
+														<td colspan="2" align="center"><a href="">Anmelde-
+																& Sicherheitseinstellungen</a></td>
 													</tr>
 													<tr>
 														<td colspan="2"><a href="">Passwort vergessen ?</a></td>
@@ -77,17 +80,6 @@
 													<tr>
 														<td colspan="2" align="center"><a href="">Offene
 																Bestellungen</a></td>
-													</tr>
-												</table>
-											</td>
-
-										</tr>
-										<tr>
-											<td><h2 align="left">Wunschzettel</h2></td>
-											<td colspan="2">
-												<table align="center" class="innen">
-													<tr>
-														<td colspan="2"></td>
 													</tr>
 												</table>
 											</td>

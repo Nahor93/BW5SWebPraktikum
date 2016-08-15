@@ -19,8 +19,8 @@
 							type="submit" name="anmelden" value="Anmelden"></td>
 					</tr>
 					<tr>
-						<td align="left" class="untenLinks"><object width="704"
-								height="448.8" type="video/mp4" 
+						<td align="left" class="untenLinks"><object width="404px"
+								height="248.8px" type="video/mp4" 
 								data="../video/StarWars_VII_HD_Deutsch.mp4">
 								<param name="volume" value="0">
 								<param name="quality" value="high">
