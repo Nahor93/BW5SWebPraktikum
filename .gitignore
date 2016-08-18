@@ -1,64 +1,44 @@
-*.class
+@@ -0,0 +1,43 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
+# Folder config file
+Desktop.ini
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Package Files #
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-*.war
-*.ear
-hs_err_pid*
+# Windows shortcuts
+*.lnk
 
+# =========================
+# Operating System Files
+# =========================
 
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/
-.loadpath
+# OSX
+# =========================
 
-# Eclipse Core
-.project
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# External tool builders
-.externalToolBuilders/
+# Thumbnails
+._*
 
-# Locally stored "Eclipse launch configurations"
-*.launch
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
 
-# PyDev specific (Python IDE for Eclipse)
-*.pydevproject
-
-# CDT-specific (C/C++ Development Tooling)
-.cproject
-
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
-
-# Java annotation processor (APT)
-.factorypath
-
-# PDT-specific (PHP Development Tools)
-.buildpath
-
-# sbteclipse plugin
-.target
-
-# Tern plugin
-.tern-project
-
-# TeXlipse plugin
-.texlipse
-
-# STS (Spring Tool Suite)
-.springBeans
-
-# Code Recommenders
-.recommenders/
-
-
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
