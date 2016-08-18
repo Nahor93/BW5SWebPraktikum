@@ -1,3 +1,0 @@
-INDEX VERSION 1.126
-C:\Users\D067231\Documents\GitHub\BW5SWebPraktikum\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2714723098.index
-\BW5SWebPraktikum\src
