@@ -43,7 +43,7 @@
 					<td>
 						<table class="rahmen">
 							<tr>
-								<td><h2>Mein Konto</h2></td>
+								<td><h2  align="center" >Mein Konto</h2></td>
 							</tr>
 							<tr>
 								<td>

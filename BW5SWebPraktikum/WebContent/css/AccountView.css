@@ -113,7 +113,8 @@ table.rahmen {
 	border: 1px solid gray;
 	border-radius: 5px;
 	background-color: white;
-	width: 12cm;
+	width: 100%;
+	height: 100%;
 	margin: 8px;
 	align: center;
 }
